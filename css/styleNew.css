@@ -1,0 +1,36 @@
+
+  .top_g_github {
+    background-color: black;
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+
+  .top_g_github img {
+    width: 30px;
+  }
+
+  .top_g_gitlab {
+    background-color: #FC6D26;
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+
+  .top_g_gitlab img {
+    width: 30px; 
+  }
+
+  .top_f_facebook {
+    background-color: #3b5998;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .top_l_linkedin {
+    background-color: #0077b5;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
